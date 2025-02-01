@@ -20,3 +20,7 @@
 - UI Components: React-Icons, Splide.js
 
 ## Screenshots
+
+![screen01](https://github.com/user-attachments/assets/47c01a5f-0a97-4966-bce5-9b3e79c730e4)
+
+![screen02](https://github.com/user-attachments/assets/c3e84a15-1654-4008-af04-aae47f12b083)
